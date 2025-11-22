@@ -7,3 +7,9 @@ Models and animations from: Mixamo.com
 
 # Created by 
 Nathan Mishler
+
+## Edited by
+Ella Beihold
+
+## Github Username
+applelushie
